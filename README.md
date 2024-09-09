@@ -1,4 +1,3 @@
-# gobank
-A complete JSON API project in Golang where we are building a bank API
+# gobank this rest api of banking with auth
 
-`make run` (for now ^^)`
+
