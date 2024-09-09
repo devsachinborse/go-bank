@@ -22,12 +22,13 @@ Create a new container named gobank
 Set the PostgreSQL superuser password to gobank
 Expose port 5432 on the host machine
 Application Setup
-Clone the Repository
+
+### Clone the Repository
 
 ```
 https://github.com/devsachinborse/go-bank.git
 ```
-Build and Run the Application
+### Build and Run the Application
 
 Ensure you have Go installed on your machine. Then, navigate to the project directory and build the application:
 Run the application:
